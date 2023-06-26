@@ -1,3 +1,5 @@
+This information is out-of-date. Please refer to the Learning Path [Learn about MongoDB on Arm servers](https://learn.arm.com/learning-paths/servers-and-cloud-computing/mongodb/)
+
 # Installing MongoDB on Arm servers and measuring its performance
 
 ### Install and Run MongoDB on Ubuntu
